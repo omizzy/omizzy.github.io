@@ -1,2 +1,4 @@
-# omizzy.github.io
-the thought stream
+# The thought stream
+
+URL: https://omizzy.github.io/
+
