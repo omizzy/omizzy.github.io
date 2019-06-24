@@ -4,7 +4,7 @@ title: I have such a teacher and closures
 date: 2019-06-23 21:28
 comments: false
 external-url:
-categories: Rumi
+categories: Rumi PHP
 ---
 
 > I am a naked man standing inside a mine of rubies,
