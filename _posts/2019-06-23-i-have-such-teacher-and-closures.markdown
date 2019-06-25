@@ -7,9 +7,10 @@ external-url:
 categories: Rumi PHP
 ---
 
-> I am a naked man standing inside a mine of rubies,
-clothed in red silk.<br/><br/>I absorb the shining and now I see the ocean,<br/><br/>
-billions of simultaneous motions<br/><br/>
+> I am a naked man standing inside a mine of rubies,<br/>
+clothed in red silk.<br/>
+I absorb the shining and now I see the ocean,<br/>
+billions of simultaneous motions<br/>
 moving in me.
 
 Excerpt from **I have such a teacher** by Rumi
