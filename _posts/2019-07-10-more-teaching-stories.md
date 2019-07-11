@@ -16,3 +16,5 @@ it does massive damage.<br/>
 
 > World-power means nothing. Only the unsayable,<br/>
 jeweled inner life matters.
+
+&#151; Rumi
