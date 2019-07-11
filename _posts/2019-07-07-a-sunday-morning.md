@@ -7,7 +7,7 @@ external-url:
 categories: Rumi
 ---
 
-> I will search for the Friend, with all my passing<br/>
+> I will search for the Friend, with all my passion<br/>
 and all my energy, until I learn<br/>
 that I dont need to search.
 
