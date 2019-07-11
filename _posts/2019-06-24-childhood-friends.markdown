@@ -45,7 +45,7 @@ Your love for what you think is yours.<br/><br/>
 Let a teacher wave away the flies<br/>
 And put a plaster on the wound.<br/><br/>
 Don't turn your head.<br/>
-Keep looking At the bandaged place.<br/>
+Keep looking at the bandaged place.<br/>
 That's where the light enters you.
 And don't believe for a moment<br/>
 That you're healing yourself.
