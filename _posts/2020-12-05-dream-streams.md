@@ -23,3 +23,27 @@ fclose($f);
 // reminisce
 print $contents;
 ```
+
+Strings as streams
+```php
+function str_to_stream(string $string) {
+  $stream = fopen('php://memory', 'rw+');
+  fwrite($stream, $string),
+  rewind($stream);
+  return $stream);
+}
+
+$raw_string=<<<STREAM
+4
+10
+10 12
+11 15
+STREAM;
+
+$stream = str_to_string($raw_string);
+
+// read in
+$vertices = (int)fgets($stream);
+$edges = (int)fgets($stream);
+print "$vertices $edges";
+```
