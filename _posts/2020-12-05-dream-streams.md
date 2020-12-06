@@ -16,7 +16,7 @@ $f = open('php://memory', 'w+');
 fputcsv($f, ['Jolly Roger', 'Adventure Galley', 'Fancy']);
 // reset the cursor
 rewind($f);
-// pull the data from memor
+// pull the data from memory
 $contents = stream_get_contents($f);
 // close the stream
 fclose($f);
