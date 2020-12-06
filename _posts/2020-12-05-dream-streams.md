@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Memory as a stream
+title: Dream streams
 date: 2018-12-15 18:00
 comments: false
 external-url:
